@@ -4,7 +4,7 @@
 ![title](./image/title.png)
 
 캐릭터 선택
-![캐릭터 선택](./image/캐릭터 선택.png)
+![title2](./image/title2.png)
 
 처음 시작 공간
 ![1](./image/1.png)
