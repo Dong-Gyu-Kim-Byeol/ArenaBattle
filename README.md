@@ -1,6 +1,9 @@
 # ArenaBattle
 2021-08
 
+이득우의 언리얼 C++ 게임 개발의 정석
+http://www.yes24.com/Product/Goods/65418549
+
 타이틀 화면
 ![title](./image/title.png)
 
