@@ -1,5 +1,6 @@
 # ArenaBattle
 2021-08
+언리얼 버전 : 4.24.3
 
 이득우의 언리얼 C++ 게임 개발의 정석
 http://www.yes24.com/Product/Goods/65418549
